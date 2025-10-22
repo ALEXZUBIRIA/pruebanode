@@ -5,6 +5,7 @@
   },
   "scripts": {
     "test": "jest",
+    "start": "node src/prueba.js",
     "coverage": "jest --coverage"
   }
 }

@@ -6,5 +6,4 @@ function suma(a, b) {
     return a - b;
   }
   
-  Xmodule.exports = { suma, resta };
-  
+  module.exports = { suma, resta };  
